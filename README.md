@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 <div align = "center">
 ⚡ Tech Stack ⚡
-  
+  <br/><br/>
 </div>
 
 <div align = "center">
