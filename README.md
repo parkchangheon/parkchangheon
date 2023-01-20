@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align = "center">
+<img width="30%" src="https://user-images.githubusercontent.com/51786976/213675179-21e2e24b-a1d4-41ea-b821-008154f45a38.PNG"/>
+</div>
+<div align = "center">
 ⚡ Tech Stack ⚡
   <br/><br/>
 </div>
