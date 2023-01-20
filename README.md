@@ -40,7 +40,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=#5C2D91"/>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=#007ACC"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=#181717"/>
-  <img src="https://img.shields.io/badge/Subversion-809CC9?style=flat-square&logo=Subversion&logoColor=#809CC9"/>
+  <img src="https://img.shields.io/badge/Subversion-FFFFFF?style=flat-square&logo=Subversion&logoColor=#809CC9"/>
   <br/><br/>
 </div>
 
