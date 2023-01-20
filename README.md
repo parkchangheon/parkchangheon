@@ -42,7 +42,10 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=#181717"/>
   <img src="https://img.shields.io/badge/Subversion-809CC9?style=flat-square&logo=Subversion&logoColor=white"/>
   <br/><br/>
-</div>
+
+
+<div align = "center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=parkchangheon&show_icons=true&theme=blue-green">
 
+</div>
