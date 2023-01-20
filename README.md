@@ -45,8 +45,9 @@ Here are some ideas to get you started:
 
 
 <div align = "center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=parkchangheon&show_icons=true&theme=blue-green">
-![KakaoTalk_20211002_160857084_01](https://user-images.githubusercontent.com/51786976/213672388-d7ca6f4e-9f2c-47e1-82d5-5d7fccdd244a.jpg)
+</div>
+  
+<div align = "center">
 
 </div>
