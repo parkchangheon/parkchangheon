@@ -4,9 +4,7 @@
 ##### Hello I am Game Client Developer Chang Heon Park from South Korea
 ##### I usually Use Unreal Engine to develop game but also Unity :)
 ##### 
-<div align = "center">
-:kr: 
-</div>
+
 <!--
 **parkchangheon/parkchangheon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,6 +19,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align = "center">
+:kr: 
+</div>
 
 <div align = "center">
   🐮 What I Made 🐮
