@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 
 <div align = "center">
 🔭 Tools 🔭
+  <br/><br/>
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=#5C2D91"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=#00599C"/>
   <br/><br/>
