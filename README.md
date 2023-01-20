@@ -24,4 +24,4 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/UNREAL-191A1B?style=flat-square&logo=UNREAL&logoColor=white"/>
   <img src="https://img.shields.io/badge/UNITY-000000?style=flat-square&logo=UNITY&logoColor=white"/>
 </div>
-<img src="https://github-readme-stats.vercel.app/api?username=parkchangheon&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=parkchangheon&show_icons=true&theme=blue-green">
