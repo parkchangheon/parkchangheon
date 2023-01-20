@@ -2,7 +2,8 @@
 
 <div align = "center">
    <br/><br/>
-  <font size = "10">About Me ! </font> <br/>
+   <div style = "font-size:16pt"> About Me! </div>
+   <br/>
 Hello I am Game Client Developer Chang Heon Park from South Korea <br/>
 I usually Use Unreal Engine to develop game but also Unity :)
    <br/><br/>
