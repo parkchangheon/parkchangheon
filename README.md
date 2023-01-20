@@ -25,4 +25,4 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/UNITY-000000?style=flat-square&logo=UNITY&logoColor=white"/>
 </div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkchangheon)](https://github.com/parkchangheon/github-readme-stats)
-![chang heon park's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkchangheon&show_icons=true&theme=blue-green)
+[![chang heon park's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkchangheon&show_icons=true&theme=blue-green)
