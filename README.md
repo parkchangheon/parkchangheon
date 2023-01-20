@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align = "center">
-  #### ⚡ Tech Stack ⚡
+⚡ Tech Stack ⚡
+  
 </div>
 
 <div align = "center">
