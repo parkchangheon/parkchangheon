@@ -2,8 +2,8 @@
 
 ### About Me !
 ##### Hello I am Game Client Developer Chang Heon Park from South Korea
-##### I usually Use Unreal Engine to develop game but also Unity :)<img src="https://img.shields.io/badge/logo=Unreal Engine&logoColor=white"/>
-
+##### I usually Use Unreal Engine to develop game but also Unity :)
+##### 
 <!--
 **parkchangheon/parkchangheon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,6 +18,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://img.shields.io/badge/C++-0094F5?style=flat-square&logo=C++&logoColor=yellow"/> <img src="https://img.shields.io/badge/CSharp-FF9A00?style=flat-square&logo=CSharp&logoColor=white"/> <img src="https://img.shields.io/badge/UNREAL-191A1B?style=flat-square&logo=UNREAL&logoColor=white"/><img src="https://img.shields.io/badge/UNITY-000000?style=flat-square&logo=UNITY&logoColor=white"/>
+<div align = "center">
+<img src="https://img.shields.io/badge/C++-0094F5?style=flat-square&logo=C++&logoColor=yellow"/> 
+  <img src="https://img.shields.io/badge/CSharp-FF9A00?style=flat-square&logo=CSharp&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/UNREAL-191A1B?style=flat-square&logo=UNREAL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/UNITY-000000?style=flat-square&logo=UNITY&logoColor=white"/>
+</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkchangheon)](https://github.com/parkchangheon/github-readme-stats)
 
 ![chang heon park's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkchangheon&show_icons=true&theme=blue-green)
