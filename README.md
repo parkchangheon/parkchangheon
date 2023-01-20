@@ -1,5 +1,5 @@
 ### 
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=843bb7&height=100&section=header&text=Chang%20Heon&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=843bb7&height=100&section=header&text=Chang%20Heon's%20Game%20Develop%20GIT&fontSize=45)
 <!--
 **parkchangheon/parkchangheon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
