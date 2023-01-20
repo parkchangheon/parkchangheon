@@ -5,7 +5,7 @@
    <div style = "font-size:16pt">🌸🐮 About Me! 🐮🌸</div>
    <br/>
 Hello I am Game Client Developer Chang Heon Park from South Korea <br/>
-I usually Use Unreal Engine to develop game but also Unity :)
+I usually Use Unreal Engine to develop game but also Unity :)<br/>
 Like Soccer & SnowBoard & Game :) 🏂⚽️🎮
    <br/><br/><br/><br/>
 </div>
