@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=1db394&height=100&section=header&text=Chang%20Heon's%20Game%20Develop%20GIT&fontSize=45&fontColor=FFFFFF)
-
-### About Me ! 
-##### Hello I am Game Client Developer Chang Heon Park from South Korea
-##### I usually Use Unreal Engine to develop game but also Unity :)
-##### 
+<div align = "center">
+About Me ! 
+Hello I am Game Client Developer Chang Heon Park from South Korea
+I usually Use Unreal Engine to develop game but also Unity :)
+</div>
 
 <!--
 **parkchangheon/parkchangheon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,12 +19,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align = "center">
-:kr: 
-</div>
+
 
 <div align = "center">
-  🐮 What I Made 🐮
+  🎮 What I Made 🎮
   <br/><br/>
 <img width="80%" src="https://user-images.githubusercontent.com/51786976/213676551-8bcfd241-419f-47a8-aed3-c1947366966e.PNG"/>
   <br/><br/>
@@ -32,7 +30,7 @@ Here are some ideas to get you started:
 
 
 <div align = "center">
-⚡ Tech Stack ⚡
+📘 Tech Stack 📘
   <br/><br/>
 </div>
 
