@@ -25,3 +25,5 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/UNITY-000000?style=flat-square&logo=UNITY&logoColor=white"/>
 </div>
 <img src="https://github-readme-stats.vercel.app/api?username=parkchangheon&show_icons=true&theme=blue-green">
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/parkchangheon/github-readme-stats)
+
