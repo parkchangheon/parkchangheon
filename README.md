@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <div align = "center">
 <img src="https://img.shields.io/badge/UNREAL-191A1B?style=flat-square&logo=Unreal Engine&logoColor=#0E1128"/>
 <img src="https://img.shields.io/badge/Unity-222324?style=flat-square&logo=Unity&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Cocos-55C2E1?style=flat-square&logo=Cocos&logoColor=#55C2E1"/>
+<img src="https://img.shields.io/badge/Cocos-55C2E1?style=flat-square&logo=Cocos&logoColor=FFFFFF"/>
 <br/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=#00599C"/>
 <img src="https://img.shields.io/badge/CSharp-FF9A00?style=flat-square&logo=CSharp&logoColor=white"/> 
