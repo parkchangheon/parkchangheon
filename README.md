@@ -19,11 +19,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <div align = "center">
   🐮 What I Made 🐮
   <br/><br/>
 <img width="80%" src="https://user-images.githubusercontent.com/51786976/213676551-8bcfd241-419f-47a8-aed3-c1947366966e.PNG"/>
+  <br/><br/>
 </div>
+
+
 <div align = "center">
 ⚡ Tech Stack ⚡
   <br/><br/>
