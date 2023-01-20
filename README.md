@@ -4,10 +4,6 @@
 **parkchangheon/parkchangheon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-<img src="https://img.shields.io/badge/C++-0094F5?style=flat-square&logo=C++&logoColor=yellow"/>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=UNREAL&logoColor=#191A1B"/>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=C#&logoColor=#26689A"/>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=UNITY&logoColor=#000000"/>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -18,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://img.shields.io/badge/C++-0094F5?style=flat-square&logo=C++&logoColor=yellow"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=UNREAL&logoColor=#191A1B"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=C#&logoColor=#26689A"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=UNITY&logoColor=#000000"/>
