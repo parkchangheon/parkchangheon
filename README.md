@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 
 
 <div align = "center">
-<img src="https://github-readme-stats.vercel.app/api?username=parkchangheon&show_icons=true&theme=blue-green">
+<img src="https://github-readme-stats.vercel.app/api?username=parkchangheon&show_icons=true&theme=tokyonight">
 </div>
   
 <div align = "center">
