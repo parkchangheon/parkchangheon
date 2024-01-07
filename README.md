@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 <div align = "center">
   🎮 What I Made 🎮
   <br/><br/>
@@ -26,7 +25,6 @@ Here are some ideas to get you started:
    3D Tps Shooter, 3D Tps adventure, 3D Tps online(Steam), 2D Mobile Poker, Mobile JRPG 
   <br/><br/><br/><br/>
 </div>
-
 
 <div align = "center">
 📘 Tech Stack 📘
@@ -43,5 +41,3 @@ Here are some ideas to get you started:
 
 <br/><br/>
 </div>
-
-
