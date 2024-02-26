@@ -18,16 +18,20 @@ Here are some ideas to get you started:
 -->
 
 <div align = "center">
-  🎮 What I Made 🎮
+  🎮 Game Developer Career 🎮
   <br/><br/>
-<img width="80%" src="https://user-images.githubusercontent.com/51786976/213676551-8bcfd241-419f-47a8-aed3-c1947366966e.PNG"/>
-   <br/><br/>
-   3D Tps Shooter, 3D Tps adventure, 3D Tps online(Steam), 2D Mobile Poker, Mobile JRPG 
-  <br/><br/><br/><br/>
+    EA Sports - Data Analyst
+   <br/>
+    YZWord - Game Client Developer / CEO
+   <br/>
+    New Gen Soft - Game Client Developer
+  <br/>
+    Webzen - GameClient Developer
+  <br/><br/><br/>
 </div>
 
 <div align = "center">
-📘 Tech Stack 📘
+📘 Game Tech Stack 📘
   <br/><br/>
 </div>
 
@@ -35,7 +39,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/UNREAL-191A1B?style=flat-square&logo=Unreal Engine&logoColor=#0E1128"/>
 <img src="https://img.shields.io/badge/Unity-222324?style=flat-square&logo=Unity&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Cocos-55C2E1?style=flat-square&logo=Cocos&logoColor=FFFFFF"/>
-<br/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=#00599C"/>
 <img src="https://img.shields.io/badge/CSharp-FF9A00?style=flat-square&logo=CSharp&logoColor=white"/> 
 
