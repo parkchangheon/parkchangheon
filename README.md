@@ -27,7 +27,7 @@ Here are some ideas to get you started:
     New Gen Soft - Game Client Developer
   <br/>
     Webzen - GameClient Developer
-  <br/><br/><br/>
+  <br/><br/>
 </div>
 
 <div align = "center">
