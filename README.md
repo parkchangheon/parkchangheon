@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <br/><br/>
     EA Sports - Data Analyst
    <br/>
-    YZWord - Game Client Developer / CEO
+    YZWord - Game Client Developer
    <br/>
     New Gen Soft - Game Client Developer
   <br/>
