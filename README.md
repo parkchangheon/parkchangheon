@@ -20,14 +20,14 @@ Here are some ideas to get you started:
 <div align = "center">
   🎮 Game Developer Career 🎮
   <br/><br/>
-    EA Sports - Data Analyst
+    Webzen - GameClient Developer
+   <br/>
+    New Gen Soft - Game Client Developer
    <br/>
     YZWord - Game Client Developer
    <br/>
-    New Gen Soft - Game Client Developer
-  <br/>
-    Webzen - GameClient Developer
-  <br/><br/>
+    EA Sports - Data Analyst
+   <br/><br/>
 </div>
 
 <div align = "center">
